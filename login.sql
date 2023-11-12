@@ -1,5 +1,3 @@
-
-
 CREATE TABLE `login` (
   `ID` int(11) NOT NULL,
   `user` varchar(255) NOT NULL,
